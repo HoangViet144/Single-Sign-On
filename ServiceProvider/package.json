@@ -1,0 +1,22 @@
+{
+  "name": "serviceprovider",
+  "version": "1.0.0",
+  "description": "service provider for sso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tran Hoang Viet",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
