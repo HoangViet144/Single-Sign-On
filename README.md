@@ -12,4 +12,4 @@ A demo has been deployed on Heroku: [Identiy provider](https://sso-service.herok
 ## Service Provider
 A sample service provider is introduced for testing purpose.
 
-A demo has been deployed on Heroku: [Identiy provider](https://serviceprovider.herokuapp.com/)
+A demo has been deployed on Heroku: [Service provider](https://serviceprovider.herokuapp.com/)
